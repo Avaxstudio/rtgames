@@ -4,3 +4,4 @@ secrets.txt
 *.tfvars
 terraform.tfstate
 terraform.tfstate.backup
+*.backup
